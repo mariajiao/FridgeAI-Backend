@@ -1,9 +1,10 @@
 fastapi
 uvicorn
 python-multipart
-google-generativeai
+google-genai
 celery
 redis
 python-dotenv
 openai
-pinecone-client
+pinecone
+Pillow
